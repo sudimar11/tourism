@@ -1,0 +1,849 @@
+{
+  "hotels": [
+    {
+      "name": "Asti Rums Otel'",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1599
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 2299
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 3099
+        },
+        {
+          "type": "suite",
+          "capacity": 4,
+          "price": 3899
+        }
+      ]
+    },
+    {
+      "name": "Mini Hotel Shale",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1748
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1748
+        }
+      ]
+    },
+    {
+      "name": "Central Guest House",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3500
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3700
+        }
+      ]
+    },
+    {
+      "name": "Skandinaviya",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 4200
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 5500
+        },
+        {
+          "type": "lux",
+          "capacity": 2,
+          "price": 5500
+        }
+      ]
+    },
+    {
+      "name": "Xander Hotel",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 5500
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 6100
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 7100
+        },
+        {
+          "type": "suite",
+          "capacity": 4,
+          "price": 8100
+        }
+      ]
+    },
+    {
+      "name": "Otel' \"Oazis\"",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1656
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1748
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 2675
+        }
+      ]
+    },
+    {
+      "name": "Otel' \"Beloye Ozero\"",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2700
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3000
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 3200
+        }
+      ]
+    },
+    {
+      "name": "Forum",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 4200
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 4200
+        },
+        {
+          "type": "suite",
+          "capacity": 3,
+          "price": 6200
+        }
+      ]
+    },
+    {
+      "name": "Gostinitsa na Gorshkovskiy",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2000
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 2200
+        },
+        {
+          "type": "suite",
+          "capacity": 3,
+          "price": 2800
+        }
+      ]
+    },
+    {
+      "name": "Hotel Montana",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2700
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3700
+        }
+      ]
+    },
+    {
+      "name": "Toyan",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 5500
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 7000
+        }
+      ]
+    },
+    {
+      "name": "Pervyy Apart-Otel'",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 9000
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 9000
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 9000
+        },
+        {
+          "type": "lux",
+          "capacity": 4,
+          "price": 9000
+        }
+      ]
+    },
+    {
+      "name": "Hostel Da Vinci",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 700
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1300
+        }
+      ]
+    },
+    {
+      "name": "Hotel Khalif",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2000
+        },
+        {
+          "type": "single",
+          "capacity": 2,
+          "price": 2100
+        }
+      ]
+    },
+    {
+      "name": "Edem",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1800
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1892
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 2390
+        }
+      ]
+    },
+    {
+      "name": "Otel' Mandarin",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2000
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 2000
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 4900
+        },
+        {
+          "type": "suite",
+          "capacity": 4,
+          "price": 4900
+        }
+      ]
+    },
+    {
+      "name": "Hotel Universitetskaya",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2300
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3300
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 2850
+        }
+      ]
+    },
+    {
+      "name": "Sloboda",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3000
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3500
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 4300
+        },
+        {
+          "type": "suite",
+          "capacity": 3,
+          "price": 4600
+        }
+      ]
+    },
+    {
+      "name": "Sport-Hotel",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2000
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 2350
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 2800
+        },
+        {
+          "type": "suite",
+          "capacity": 4,
+          "price": 5000
+        }
+      ]
+    },
+    {
+      "name": "Hotel \"Bastogne\"",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2600
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3300
+        }
+      ]
+    },
+    {
+      "name": "Baston",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2600
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3300
+        }
+      ]
+    },
+    {
+      "name": "Chekhov Hotel",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3071
+        }
+      ]
+    },
+    {
+      "name": "Bon Apart",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 4954
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 6440
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 9017
+        }
+      ]
+    },
+    {
+      "name": "Magistrat",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 4900
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 6300
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 9000
+        },
+        {
+          "type": "lux",
+          "capacity": 4,
+          "price": 12000
+        }
+      ]
+    },
+    {
+      "name": "Marrakesh",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1394
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1932
+        }
+      ]
+    },
+    {
+      "name": "Rus Tomsk Hostel",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 630
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1450
+        }
+      ]
+    },
+    {
+      "name": "Kerch'",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1900
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1900
+        }
+      ]
+    },
+    {
+      "name": "Good night / Апартементы",
+      "rooms": [
+        {
+          "type": "1 квартира",
+          "capacity": 2,
+          "price": 1610
+        }
+      ]
+    },
+    {
+      "name": "Gogol Hotel",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 4359
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 5549
+        },
+        {
+          "type": "suite",
+          "capacity": 2,
+          "price": 8000
+        }
+      ]
+    },
+    {
+      "name": "Zarechnaya",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1491
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1800
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 3400
+        }
+      ]
+    },
+    {
+      "name": "Hotel Kupecheskiy Dom",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3300
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3600
+        }
+      ]
+    },
+    {
+      "name": "Oktyabr'skaya",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3684
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 5635
+        }
+      ]
+    },
+    {
+      "name": "Parad Park Otel'",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3300
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 4800
+        },
+        {
+          "type": "suite",
+          "capacity": 2,
+          "price": 8000
+        }
+      ]
+    },
+    {
+      "name": "Soyuz",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3300
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 4000
+        },
+        {
+          "type": "suite",
+          "capacity": 2,
+          "price": 4400
+        },
+        {
+          "type": "lux",
+          "capacity": 2,
+          "price": 5500
+        }
+      ]
+    },
+    {
+      "name": "Dom Okhotnika",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 700
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1200
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 1600
+        }
+      ]
+    },
+    {
+      "name": "Отель \"Классик\"",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3200
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3400
+        }
+      ]
+    },
+    {
+      "name": "Aurora Hotel",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2800
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3000
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 4400
+        },
+        {
+          "type": "suite",
+          "capacity": 4,
+          "price": 9200
+        }
+      ]
+    },
+    {
+      "name": "Kukhterin Otel'",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 3500
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 8000
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 12000
+        },
+        {
+          "type": "suite",
+          "capacity": 2,
+          "price": 17000
+        }
+      ]
+    },
+    {
+      "name": "Siberia",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 4684
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 4684
+        },
+        {
+          "type": "suite",
+          "capacity": 2,
+          "price": 5700
+        }
+      ]
+    },
+    {
+      "name": "Hotel Tomsk",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2800
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3500
+        },
+        {
+          "type": "suite",
+          "capacity": 3,
+          "price": 6500
+        }
+      ]
+    },
+    {
+      "name": "Hotel Abazhur",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2668
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 3036
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 4584
+        },
+        {
+          "type": "suite",
+          "capacity": 4,
+          "price": 5581
+        }
+      ]
+    },
+    {
+      "name": "Спутник",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1104
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1840
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 4500
+        }
+      ]
+    },
+    {
+      "name": "Hotel Galereya",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 2442
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 2898
+        }
+      ]
+    },
+    {
+      "name": "Мини-гостиница Viktoria",
+      "rooms": [
+        {
+          "type": "single",
+          "capacity": 1,
+          "price": 1400
+        },
+        {
+          "type": "double",
+          "capacity": 2,
+          "price": 1600
+        },
+        {
+          "type": "triple",
+          "capacity": 3,
+          "price": 2000
+        },
+        {
+          "type": "suite",
+          "capacity": 4,
+          "price": 2200
+        }
+      ]
+    }
+  ]
+}
